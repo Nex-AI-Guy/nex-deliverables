@@ -67,11 +67,15 @@ All data is stored locally at `~/.nex-deliverables/deliverables.db`. No data is 
 
 ## License
 
-This software is licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).
+This project uses a dual license model:
 
-Free for personal use, research, education, and non-commercial purposes. Commercial use requires a separate license from Nex AI.
+**ClawHub (MIT-0):** Copies installed through ClawHub are licensed under MIT-0 as required by the platform. Free for any use.
 
-For commercial licensing, contact: info@nex-ai.be
+**GitHub (AGPL-3.0):** Copies obtained from this GitHub repository are licensed under the GNU Affero General Public License v3.0. You may use, modify, and distribute freely, but if you offer a modified version as a service, you must open-source your changes.
+
+**Commercial License:** Want to use this in a proprietary product or hosted service without AGPL obligations? Commercial licenses are available from Nex AI.
+
+Contact: info@nex-ai.be | Website: [nex-ai.be](https://nex-ai.be)
 
 ---
 
